@@ -1,4 +1,4 @@
-# login_screen
+# Login Screen
 
 This is a Login Screen app where the functionality of login using Google and Facebook has been implemented.
 The configurations has been done only for iOS.
