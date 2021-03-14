@@ -5,8 +5,8 @@ The configurations has been done only for iOS.
 
 Below are few screenshots of the app.
 
-![image](https://user-images.githubusercontent.com/53946243/111072329-2a3bfa00-8500-11eb-9914-bf0029125f41.png)
-![image](https://user-images.githubusercontent.com/53946243/111072346-3a53d980-8500-11eb-90e6-4744f75a496e.png)
-![image](https://user-images.githubusercontent.com/53946243/111072352-42ac1480-8500-11eb-8477-410943f7e111.png)
-![image](https://user-images.githubusercontent.com/53946243/111072359-46d83200-8500-11eb-8b45-a56a58ce7e9a.png)
-![image](https://user-images.githubusercontent.com/53946243/111072361-4a6bb900-8500-11eb-8665-013b39f1d893.png)
+<img src="https://user-images.githubusercontent.com/53946243/111073096-6de43300-8503-11eb-8956-bcd0fb9849b4.png" height="500" width="250">
+<img src="https://user-images.githubusercontent.com/53946243/111073111-805e6c80-8503-11eb-9f56-1bb80c3a5799.png" height="500" width="250">
+<img src="https://user-images.githubusercontent.com/53946243/111073122-86ece400-8503-11eb-82b4-5377a4d0839c.png" height="500" width="250">
+<img src="https://user-images.githubusercontent.com/53946243/111073128-894f3e00-8503-11eb-96bd-e599cc9c0614.png" height="500" width="250">
+<img src="https://user-images.githubusercontent.com/53946243/111073134-8bb19800-8503-11eb-8a57-23e75ef44b94.png" height="500" width="250">
